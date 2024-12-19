@@ -1,0 +1,2 @@
+dit is een toegevoegd bestand als test voor GIT 
+we voegen nog een tweede regel toe aan het bestand. 
